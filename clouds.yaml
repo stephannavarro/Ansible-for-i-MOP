@@ -1,0 +1,10 @@
+clouds:
+  pvcmop:
+    auth:
+      auth_url: https://10.3.44.65:5000/v3
+      username: teamXX
+      password: ansibleibmi
+      project_name: ibmi
+      project_domain_name: Default
+      user_domain_name: Default
+    verify: False
